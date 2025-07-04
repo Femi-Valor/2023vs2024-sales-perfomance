@@ -18,6 +18,7 @@ The company want to create an annual comparison sales report between year 2023 a
 - highest selling category
 - which category is contributing maximum to the sales
 - highest sales by region
+- chart showing the monthly sales trend
 - year over year (sales, profit, quantity and cost) percentage
 - dashboard interaction - <a href="https://github.com/Femi-Valor/2023vs2024-sales-perfomance/blob/main/assets/docs/2024%20vs%202023%20E%26A%20company.pbix">2023vs2024 sales perfomance
 
@@ -36,6 +37,7 @@ The company want to create an annual comparison sales report between year 2023 a
 - Accessories generate more sales and profit for year 2024
 - Monitor and mouse generated moren sales for year 2024
 - Southern region generated the highest revenue for both years
+- highest sales was made in september for year 2024 and march for year 2023
 - There was an increase in the year over year sales,cost,quantity and profit
 - the highest sellng category for year 2024 was elctronics, and accessories for year 2023
 
