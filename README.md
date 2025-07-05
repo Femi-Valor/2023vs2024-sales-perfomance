@@ -1,4 +1,6 @@
 # 2023vs2024 E&A Company Sales Perfomance
+![preview](https://github.com/user-attachments/assets/ddf11189-4bab-4e26-93d7-90c204bfaf91)
+
 
 ## Project Objective
 The company want to create an annual comparison sales report between year 2023 and year 2024,so as the company can understand their sales growth over the year and regional sales distribution trend and also grow more sales in the coming year.
@@ -32,6 +34,8 @@ The company want to create an annual comparison sales report between year 2023 a
 
 ## Dashboard
 ![power bi visualization](https://github.com/user-attachments/assets/b91c2a0e-24eb-4841-ab4e-a243a2658ca6)
+- <a href="https://github.com/Femi-Valor/2023vs2024-sales-perfomance/blob/main/assets/docs/2024%20vs%202023%20E%26A%20company.pbix">live interaction
+
 
 ## Project Insights
 - Accessories generate more sales and profit for year 2024
