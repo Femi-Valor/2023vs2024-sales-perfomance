@@ -46,6 +46,20 @@ The company want to create an annual comparison sales report between year 2023 a
 - the highest sellng category for year 2024 was elctronics, and accessories for year 2023
 
 ## Final Conclusion
-- According to my analysis there should be more quantity produced on accessories like keyboard for the nothern region, because in 2023, 151 quantity of product was produced and distributed to the northern region, but reduced drastcally by 37% and cost of production was also reduced by 47%.  
+- During the analysis of sales performance between 2023 and 2024, a notable drop was observed in the sales of accessories in the Northern region. In 2023, a total of 151 units were sold. However, in 2024, sales dropped drastically by approximately 37%, indicating a significant decline in demand or distribution performance.
 
- 
+- Proposed Solution:
+To address this drop and improve accessory sales in the region, the following actions are recommended:
+
+Conduct Regional Market Research: Understand customer behavior, pricing expectations, and competitor presence to uncover root causes.
+
+Launch Targeted Promotions: Offer region-specific deals or bundles (e.g., keyboard + mouse) and seasonal discounts to stimulate demand.
+
+Strengthen Marketing Efforts: Implement digital and local campaigns to increase visibility and engagement in the Northern region.
+
+Improve Inventory Management: Ensure adequate supply and availability of accessories in physical and online outlets within the region.
+
+Boost Retail Engagement: Train sales staff or deploy sales reps to promote keyboard accessories during device purchases.
+
+Gather Customer Feedback: Monitor reviews and post-sale feedback to identify product or service issues that may discourage repeat purchases.
+
