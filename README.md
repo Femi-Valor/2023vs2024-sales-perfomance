@@ -51,15 +51,15 @@ The company want to create an annual comparison sales report between year 2023 a
 - Proposed Solution:
 To address this drop and improve accessory sales in the region, the following actions are recommended:
 
-Conduct Regional Market Research: Understand customer behavior, pricing expectations, and competitor presence to uncover root causes.
+1. Conduct Regional Market Research: Understand customer behavior, pricing expectations, and competitor presence to uncover root causes.
 
-Launch Targeted Promotions: Offer region-specific deals or bundles (e.g., keyboard + mouse) and seasonal discounts to stimulate demand.
+2. Launch Targeted Promotions: Offer region-specific deals or bundles (e.g., keyboard + mouse) and seasonal discounts to stimulate demand.
 
-Strengthen Marketing Efforts: Implement digital and local campaigns to increase visibility and engagement in the Northern region.
+3. Strengthen Marketing Efforts: Implement digital and local campaigns to increase visibility and engagement in the Northern region.
 
-Improve Inventory Management: Ensure adequate supply and availability of accessories in physical and online outlets within the region.
+4. Improve Inventory Management: Ensure adequate supply and availability of accessories in physical and online outlets within the region.
 
-Boost Retail Engagement: Train sales staff or deploy sales reps to promote keyboard accessories during device purchases.
+5. Boost Retail Engagement: Train sales staff or deploy sales reps to promote keyboard accessories during device purchases.
 
-Gather Customer Feedback: Monitor reviews and post-sale feedback to identify product or service issues that may discourage repeat purchases.
+6. Gather Customer Feedback: Monitor reviews and post-sale feedback to identify product or service issues that may discourage repeat purchases.
 
