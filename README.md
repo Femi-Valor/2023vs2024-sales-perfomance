@@ -57,9 +57,9 @@ To address this drop and improve accessory sales in the region, the following ac
 
 3. Strengthen Marketing Efforts: Implement digital and local campaigns to increase visibility and engagement in the Northern region.
 
-4. Improve Inventory Management: Ensure adequate supply and availability of accessories in physical and online outlets within the region.
+4. Improve Inventory Management: Ensure adequate supply and availability of product in physical and online outlets within the region.
 
-5. Boost Retail Engagement: Train sales staff or deploy sales reps to promote keyboard accessories during device purchases.
+5. Boost Retail Engagement: Train sales staff or deploy sales reps to promote  accessories during device purchases.
 
 6. Gather Customer Feedback: Monitor reviews and post-sale feedback to identify product or service issues that may discourage repeat purchases.
 
